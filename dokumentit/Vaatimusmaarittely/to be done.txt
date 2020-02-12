@@ -1,0 +1,24 @@
+xxx Yleinen palvelukuvaus kirjoitettu	1 kpl	
+xxx Palveluun liittyviä Sidosryhmiä tunnistettu riittävästi	> 5 kpl	
+xxx Sidosryhmien edustajia kuvattu profiilikuvauksien muodossa	>4 kpl	(ollain sidosryhmällä voi olla useampia eri profiileja)
+xxx Kaikista oleellista sidosryhmistä on koostettu sidosryhmäkartta, josta voi tunnistaa ko. ryhmän motivaation	1 kpl	
+xxx Haastateltu/kuvitteellinen Asiakastarina-kuvaus, josta selviää sidosryhmän/profiilin kohtaaminen palvelun kanssa	2 kpl	Valitun profiilin näkökulmasta
+xxx Palvelupolku-kuvaus valitun profiilin näkökulmasta	2 kpl	Valitun profiilin näkökulmasta
+xxx Use Case - käyttötapaus-kuvauksia määriteltynä	2 kpl	Kuvaus + Diagrammi
+xxx Palvelun tärkeimmät toiminnalliset ominaisuudet tunnistettu	> 5 kpl	Löytyvät taulukosta
+xxx Palveluun liittyvä toiminnallinen ominaisuus tarkemmin määriteltynä	2 kpl	Ominaisuusmäärittely tehty soveltaen "pohja-o" -tiedostoa tiedostossa
+xxx Mockup -toteutus valitusta osasta palvelua esim. valittu toiminnallisuus/kokonaisuus	1 kpl	
+XXX Käyttäjätarina, eli User Story kuvaukset liittyen palvelun toimintoihin	10 kpl	
+XXX toiminnallisia vaatimuksia, jolla tarvittaessa tarkennetaan ominaisuutta	10 kpl	esitetty taulukossa
+XXX Vapaaehtoinen	Liiketoimintavaatimukset	5 kpl	esitettävä taulukossa
+XXX Vapaaehtoinen	Riskikartoitus/suunnitelma	5 kpl	esitettävä taulukossa
+XXX Vapaaehtoinen	Tekniset vaatimukset	5 kpl	esitettävä taulukossa
+XXX ei-toiminnallisia tietoturvavaatimuksia liittyen palveluun/ominaisuuteen	2 kpl	esitettävä taulukossa
+XXX ei-toiminnallisia suorituskykyvaatimuksia liittyen palveluun/ominaisuuteen	2 kpl	esitettävä taulukossa
+XXX ei-toiminnallisia käytettävyysvaatimuksia liittyen palveluun/ominaisuuteen	2 kpl	esitettävä taulukossa
+--- Hyväksyntätestitapauksia liittyen palvelun valittuun toiminnalliseen ominaisuuteen (> 6 askelta)	5 kpl	Linkit Hyväksyntätestihin löytyvät taulukosta, josta voi selvittää ko. toiminnallisuuden/vaatimuksen, josta se on johdettu
+Sekvenssikaavio liittyen koko palvelun toimintaan tai valittuun toiminnalliseen ominaisuuteen	1 kpl	-
+Tilakonekaavio (>10 tilaa) liittyen palvelupolku kuvaukseen tai sovellettuna valittun ominaisuuden kuvaukseen	1 kpl	-
+Sijoittelunäkymä (Deployment Diagram), jolla kuvataan palveluun liityvien palvelin komponettien sijoittelua tuotanto ympäristössä	1 kpl	
+Vapaaehtoinen	Käsitemalli (Concept Diagram), jolla kuvataan suunnitellun palvelun tärkeimpiä käsitteitä/olioehdokkaita, joiden pohjalta voidaan laatia tarkempi luokkakaavio kuvaus	1 kpl	Liitetään osaksi arkkitehtuuri kuvausta
+Vapaaehtoinen	Luokkakaavio (Class Diagram), jolla kuvataan valittua osa-aluetta palvelusta luokkakaavion muodossa	1 kpl (>6 luokkaa)	Liitetään osaksi arkkitehtuurikuvausta

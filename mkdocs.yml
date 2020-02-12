@@ -1,0 +1,27 @@
+site_name: Vaatimusmäärittely TTOS0100 
+site_url: http://harjoitustehtavagroup.pages.labranet.jamk.fi/ohjelmistokehitys-ttos0100
+
+site_author: Tarmo Urrio
+
+docs_dir: dokumentit
+site_dir: public
+
+markdown_extensions:
+  - plantuml-markdown:
+      server: http://www.plantuml.com/plantuml
+  - toc:
+      anchorlink: True
+      separator: "_"
+  - admonition
+  - tables
+  - sane_lists
+
+
+
+theme:
+  name: 'material'
+  palette:
+    primary: 'black'
+    accent: 'black'
+  logo:
+    icon: 'assignment'

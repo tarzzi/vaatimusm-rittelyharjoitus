@@ -1,0 +1,8 @@
+# Lisää kaikki tarpeelliset tiedostot tähän "02-vaatimusmäärittely"-kansioon! 
+
+Käsittäen seuraavat:
+
+* Vaatimusmäärittelyn runko
+* Käyttötapaukset
+* Ominaisuuskuvaukset
+*
