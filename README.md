@@ -1,10 +1,9 @@
-# TTOS0100
+# Vaatimusmäärittelyn luonnin harjoitustyö 
 
-
-> Päivät alla olevat linkit oman repositoriosi mukaiseksi!!
+Harjoituksen tehtävänä oli tutustua vaatimusmäärittelyn luontiin ja siihen liittyviin käsitteisiin. Toteutin harjoitustyön kuvitteelliselle avaimettomalle ovenavaus-järjestelmälle. 
 
 * [Gitlab pages-julkaistu vaatimusmäärittely](http://harjoitustehtavagroup.pages.labranet.jamk.fi/ohjelmistokehitys-ttos0100/Vaatimusmaarittely/vaatimusmaarittely/)
 * [Linkki liite kansioon](http://harjoitustehtavagroup.pages.labranet.jamk.fi/ohjelmistokehitys-ttos0100/Vaatimusmaarittely/liitteet/)
-* [Linkki repositoriosi etusivuun](https://gitlab.labranet.jamk.fi/harjoitustehtavagroup/ohjelmistokehitys-ttos0100/tree/master/dokumentit)
+* [Linkki repositorion etusivuun](https://gitlab.labranet.jamk.fi/harjoitustehtavagroup/ohjelmistokehitys-ttos0100/tree/master/dokumentit)
 
 
